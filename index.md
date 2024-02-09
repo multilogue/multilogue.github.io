@@ -1,8 +1,9 @@
-# Github.io template. Index
+# Multilogue
 <pre>
-  'Machina Ratiocinatrix' is a term used by Norbert Wiener in the introduction to his book 
-  "Cybernetics, or Control and Communication in the Animal and the Machine".
-</pre>
-[Page 1](./pages/page_1)
+  <b>Multilogue</b> is a cooperative game of reasoning entities against <i>ignorance</i>, <i>confusion</i> and <i>misunderstanding</i>.
 
-[Page 2](./pages/page_2)
+  <b>Ignorance</b>         is a lack of knowledge or information.
+  <b>Confusion</b>         is a lack of understanding; uncertainty.
+  <b>Misunderstanding</b>  is a failure to understand something correctly.
+</pre>
+Lab journal
